@@ -1,7 +1,7 @@
 # Security-and-Privacy-of-Machine-Learning-Critique
 Critique in Security and Privacy of Machine Learning (Fall 2025) @NTU CSIE. 
 
-Reference from course Web Page: https://www.csie.ntu.edu.tw/~stchen/teaching/spml25/
+Reference from Course Web Page: https://www.csie.ntu.edu.tw/~stchen/teaching/spml25/
 
 **National Taiwan University — CSIE Building R105**  
 **Time:** Wednesdays 09:10–12:10
