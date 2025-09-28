@@ -25,9 +25,8 @@ Modern ML can match or surpass human performance in controlled settings, but rea
 
 ---
 
-## Schedule (Tentative)
+## Schedule: Critiques for Publications of Security and Privacy of Machine Learning from 2023 to 2025.
 
-We will use NTU COOL for materials and updates. Dates are in **2025**.
 
 | Date | Topic | Suggested Readings |
 |---|---|---|
