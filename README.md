@@ -32,9 +32,15 @@ We will use NTU COOL for materials and updates. Dates are in **2025**.
 | Date | Topic | Suggested Readings |
 |---|---|---|
 | 9/03 | Course Introduction | — |
-| 9/10 | Adversarial Attacks & Defenses | [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083); [Obfuscated Gradients Give a False Sense of Security](https://arxiv.org/pdf/1802.00420); [Annealing Self-Distillation Rectification Improves Adversarial Training](https://arxiv.org/pdf/2305.12118); [Adversarial Robustness Limits via Scaling-Law and Human-Alignment Studies](https://arxiv.org/pdf/2404.09349) |
-| 9/17 | Theory & Certified Defenses | [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175); [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918); [Block Reflector Orthogonal Layers & Logit Annealing Loss](https://arxiv.org/abs/2407.14370) |
-| 9/24 | **Student Presentations** — G1: Poisoning Attacks | [ShadowCast](https://arxiv.org/abs/2402.06608); [MP-Nav](https://openreview.net/forum?id=8Y8Xx0sG6v); [PoisonBench](https://arxiv.org/abs/2406.01318) |
+| 9/10 | Adversarial Attacks & Defenses | [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083); 
+[Obfuscated Gradients Give a False Sense of Security](https://arxiv.org/pdf/1802.00420); 
+[Annealing Self-Distillation Rectification Improves Adversarial Training](https://arxiv.org/pdf/2305.12118); 
+[Adversarial Robustness Limits via Scaling-Law and Human-Alignment Studies](https://arxiv.org/pdf/2404.09349) |
+| 9/17 | Theory & Certified Defenses | [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf); 
+[Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/pdf/1902.02918); 
+[Block Reflector Orthogonal Layers & Logit Annealing Loss](https://arxiv.org/pdf/2505.15174) |
+| 9/24 | **Student Presentations** — G1: Poisoning Attacks | [ShadowCast](https://arxiv.org/abs/2402.06608); [MP-Nav](https://openreview.net/pdf?id=zy7VeNtSLM); [PoisonBench](https://arxiv.org/abs/2410.08811) |
+
 | 9/24 | **Student Presentations** — G2: Backdoor Attacks | [Data-Free Backdoor Attacks](https://arxiv.org/abs/2204.04770); [Proactive Defensive Backdoor](https://arxiv.org/abs/2401.10130); [Backdoor Attacks on CLIP](https://openreview.net/forum?id=t5G0N2u1LT) |
 | 10/01 | Jailbreaking LLMs | [Backdoor-Enhanced Safety Alignment](https://arxiv.org/abs/2402.05209); [Robust Prompt Optimization (RPO)](https://arxiv.org/abs/2406.13356); [Deliberative Alignment](https://arxiv.org/abs/2402.01717) |
 | 10/08 | **Student Presentations** — G3: Adversarial Attacks on LLMs | [DA³](https://arxiv.org/abs/2406.17006); [A Prompt-Based Adversarial Attack](https://arxiv.org/abs/2402.09187); [Is LLM-as-a-Judge Robust?](https://arxiv.org/abs/2407.11373) |
