@@ -1,7 +1,7 @@
 # Security-and-Privacy-of-Machine-Learning-Critique
 Critique in Security and Privacy of Machine Learning (Fall 2025) @NTU CSIE. 
 
-Reference from Course Web Page: https://www.csie.ntu.edu.tw/~stchen/teaching/spml25/
+Referencing from Course Web Page: https://www.csie.ntu.edu.tw/~stchen/teaching/spml25/
 
 **National Taiwan University — CSIE Building R105**  
 **Time:** Wednesdays 09:10–12:10
@@ -41,17 +41,16 @@ Modern ML can match or surpass human performance in controlled settings, but rea
 | 10/08 | **Student Presentations** — G3: Adversarial Attacks on LLMs | [DA³](https://arxiv.org/abs/2311.08598); [A Prompt-Based Adversarial Attack](https://arxiv.org/abs/2310.13345); [Is LLM-as-a-Judge Robust?](https://arxiv.org/abs/2402.14016) |
 | 10/08 | **Student Presentations** — G4: Jailbreaking VLMs | [Multi-Modal Linkage Jailbreak](https://arxiv.org/abs/2412.00473); [IDEATOR](https://arxiv.org/abs/2411.00827); [HiddenDetect](https://aclanthology.org/2025.acl-long.724.pdf) |
 | 10/15 | **Student Presentations** — G5: Prompt Injection | [EIA: Environmental Injection Attack](https://arxiv.org/abs/2409.11295); [Defense via Attack Techniques](https://arxiv.org/abs/2411.00459); [MELON: Provable Defense for Indirect Prompt Injection](https://arxiv.org/abs/2502.05174)|
-
-| 10/15 | **Student Presentations** — G6: Security & Privacy Risks in RAG | [RAG Vulnerability](https://arxiv.org/abs/2402.07817); [Scalable Data Extraction from RAG](https://arxiv.org/abs/2402.12749); [SafeRAG](https://aclanthology.org/2024.findings-acl.507/) |
-| 10/22 | Protect Data from Misuse by AI; **Final Project Proposal Presentations** | **Proposal due:** 10/21 (see Project section) |
+| 10/15 | **Student Presentations** — G6: Security & Privacy Risks in RAG | [RAG Vulnerability](https://arxiv.org/abs/2409.17275); [Scalable Data Extraction from RAG](https://arxiv.org/abs/2402.17840); [SafeRAG](https://aclanthology.org/2025.acl-long.230.pdf)|
+| 10/22 | Protect Data from Misuse by AI; **Final Project Proposal Presentations** | **Proposal due:** 10/21 |
 | 10/29 | Guest Lecture | — |
-| 11/05 | **Student Presentations** — G7: Machine Unlearning | [Defensive Unlearning for Diffusion](https://arxiv.org/abs/2406.02921); [Illusion of Unlearning (T2I)](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_in_CVPR_2024_paper.html); [SAeUron](https://arxiv.org/abs/2405.20822) |
-| 11/05 | **Student Presentations** — G8: Model Immunization | [IMMA](https://arxiv.org/abs/2406.10667); [Multi-concept Immunization via Model Merging](https://arxiv.org/abs/2405.13236); [Condition-Number Perspective](https://arxiv.org/abs/2405.14471) |
+| 11/05 | **Student Presentations** — G7: Machine Unlearning | [Defensive Unlearning for Diffusion](https://arxiv.org/abs/2405.15234); [Illusion of Unlearning (T2I)](https://openaccess.thecvf.com/content/CVPR2025/papers/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.pdf); [SAeUron](https://arxiv.org/abs/2501.18052)|
+| 11/05 | **Student Presentations** — G8: Model Immunization | [IMMA](https://arxiv.org/abs/2311.18815); [Multi-concept Immunization via Model Merging](https://arxiv.org/abs/2412.15320); [Condition-Number Perspective](https://arxiv.org/abs/2505.23760) |
 | 11/12 | Model & Data Privacy | — |
-| 11/19 | **Student Presentations** — G9: Membership Inference | [MIA on LVLMs](https://arxiv.org/abs/2403.09041); [Privacy Backdoors](https://arxiv.org/abs/2406.16240); [Variance-Based MIA for Captioning](https://openaccess.thecvf.com/content/ICCV2023/html/Hu_Variance-Based_Membership_Inference_Attacks_Against_Large-Scale_Image_Captioning_Models_ICCV_2023_paper.html) |
-| 11/19 | **Student Presentations** — G10: Sec/Privacy in Federated Learning | [Multi-Round Consistency Poisoning](https://arxiv.org/abs/2403.06664); [Safety Attack/Defense in Fed Instruction-Tuning](https://arxiv.org/abs/2406.18024); [Risk of Data Reconstruction in FL](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-teng) |
-| 11/26 | **Student Presentations** — G11: LLM Memorization | [Adversarial Compression](https://arxiv.org/abs/2406.14567); [Generalization vs. Memorization](https://arxiv.org/abs/2406.08427); [Memorization Sinks](https://arxiv.org/abs/2406.04100) |
-| 11/26 | **Student Presentations** — G12: Multi-Agent Systems | [Steganographic Collusion](https://proceedings.neurips.cc/paper_files/paper/2023/hash/66a2c9d83f4113cd8540bd197a7b7f35-Abstract-Conference.html); [Single-Agent Poisoning Ruins Multi-Agent Learning](https://openreview.net/forum?id=Oq5Jd4R6oM); [Cowpox (VLM-based MAS)](https://arxiv.org/abs/2406.14386) |
+| 11/19 | **Student Presentations** — G9: Membership Inference | [MIA on LVLMs](https://arxiv.org/abs/2411.02902); [Privacy Backdoors](https://arxiv.org/abs/2404.01231); [Variance-Based MIA for Captioning](https://openaccess.thecvf.com/content/CVPR2025/papers/Samira_Variance-Based_Membership_Inference_Attacks_Against_Large-Scale_Image_Captioning_Models_CVPR_2025_paper.pdf) |
+| 11/19 | **Student Presentations** — G10: Sec/Privacy in Federated Learning | [Multi-Round Consistency Poisoning](https://arxiv.org/abs/2404.15611); [Safety Attack/Defense in Fed Instruction-Tuning](https://arxiv.org/abs/2406.10630); [Risk of Data Reconstruction in FL](https://www.usenix.org/system/files/usenixsecurity25-xu-xiangrui.pdf) |
+| 11/26 | **Student Presentations** — G11: LLM Memorization | [Adversarial Compression](https://arxiv.org/abs/2404.15146); [Generalization vs. Memorization](https://arxiv.org/abs/2407.14985); [Memorization Sinks](https://arxiv.org/abs/2507.09937)|
+| 11/26 | **Student Presentations** — G12: Multi-Agent Systems | [Steganographic Collusion](https://proceedings.neurips.cc/paper_files/paper/2024/file/861f7dad098aec1c3560fb7add468d41-Paper-Conference.pdf); [Single-Agent Poisoning Ruins Multi-Agent Learning](https://openreview.net/pdf?id=46xYl55hdc); [Cowpox (VLM-based MAS)](https://www.arxiv.org/abs/2508.09230) |
 | 12/03 | Guest Lecture | — |
 | 12/10 | Final Project Presentations | — |
 | 12/17 | Final Project Presentations | — |
